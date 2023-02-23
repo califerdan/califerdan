@@ -17,10 +17,11 @@
   <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
 </div>
 
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=califerdan&hide_progress=false)](https://github.com/califerdan/github-readme-stats)
-</div>
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=califerdan&hide_progress=false)](https://github.com/califerdan/github-readme-stats)
+
+---
 <div>
   <a href="mailto:califerdan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
